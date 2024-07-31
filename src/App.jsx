@@ -10,6 +10,7 @@ import Experience from './Components/Experience';
 import Education from './Components/Education';
 import Footer from './Components/Footer';
 import Certificates from './Components/Certificates';
+import Achievement from './Components/Achievement';
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
             <Route path='/skills' element={<Skills />} />
             <Route path='/projects' element={<Projects />} />
             <Route path="/Certification" element={<Certificates />} />
+            <Route path="/Achievement" element={<Achievement />} />
             <Route path='/about' element={<About />} />
           </Routes>
         </main>

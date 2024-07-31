@@ -10,7 +10,7 @@ const NavBar = () => {
         { name: "Skills", link: "skills" },
         { name: "Projects", link: "projects" },
         { name: "Certificates", link: "certification" },
-
+        { name: "Achievement", link: "Achievement" },
         { name: "About", link: "about" }
     ];
 
