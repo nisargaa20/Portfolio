@@ -15,7 +15,8 @@ const Education = () => {
                     {/* Education Entry 1 */}
                     <div className="w-[95%] max-w-[800px] flex flex-col items-center border-2 border-[#6a522f] rounded-3xl backdrop-blur-sm bg-black/10 shadow-lg transition duration-150 ease-in-out hover:-translate-y-2">
                         <div className="flex flex-col justify-center items-center p-4 mt-2 text-lg text-center">
-                            <h1 className="font-light tracking-[3px]">PES College of Engineering, Mandya</h1>
+                            <h1 className="font-light tracking-[3px]">PES College of Engineering, 
+                                Mandya</h1>
                             <div className='w-[95%] mt-4 text-center'>
                                 <h4 className='text-xl font-semibold text-[#c59b5c]'>2021-2025 | Pursuing</h4>
                                 <span className="text-md">Information Science and Engineering</span>

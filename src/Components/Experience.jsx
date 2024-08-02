@@ -24,9 +24,9 @@ const Experience = () => {
                             </div>
                             <div className="desc flex flex-col gap-2">
                                 <h3 className="font-semibold text-[#c59b5c]">Software Development Engineer</h3>
-                                <p>May 2024 - Present</p>
-                                <p>Collaborating closely with the development team to architect and develop customized software solutions focusing on 
-                                functionality and user experience.</p>
+                                <p>May 2024 - Aug 2024</p>
+                                <p>Collaborated closely with the development team to architect and implement advanced real-time data visualization tools, 
+                                including interactive gauges and dynamic charts, ensuring optimal functionality and superior user experience.</p>
                               
                                 <h3 className="font-semibold text-[#c59b5c]">Full Stack Developer | Internship</h3>
                                 <p>Jan 2024 - Feb 2024</p>
@@ -46,7 +46,7 @@ const Experience = () => {
                             <div className="desc flex flex-col gap-2">
                                 <h3 className="font-semibold text-[#c59b5c]">Open Source Contributor</h3>
                                 <p>May 2024 - Present</p>
-                                <p>I received 455 points and made 21 PRs right from the start. Out of 1900+ active contributors and 17000+ participants, I am proud to have obtained the Summit Seeker Badge🏅</p>
+                                <p>I received 980 points and made 23 PRs right from the start. I am proud to have obtained the Summit Seeker Badge🏅</p>
                             </div>
                         </div>
                     </div>
@@ -60,7 +60,7 @@ const Experience = () => {
                             <div className="desc flex flex-col gap-2">
                                 <h3 className="font-semibold text-[#c59b5c]">Web Developer | Internship</h3>
                                 <p>Nov 2023 - Dec 2023</p>
-                                <p>Spearheading the development of digital summarizer project aimed at enhancing information accessibility for the organization, 
+                                <p>Spearheaded the development of digital summarizer project aimed at enhancing information accessibility for the organization, 
                                     leveraging advanced technologies to ensure optimal performance and user satisfaction.</p>
                             </div>
                         </div>
@@ -72,3 +72,5 @@ const Experience = () => {
 };
 
 export default Experience;
+
+
