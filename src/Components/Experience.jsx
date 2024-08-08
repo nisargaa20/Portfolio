@@ -45,8 +45,8 @@ const Experience = () => {
                             </div>
                             <div className="desc flex flex-col gap-2">
                                 <h3 className="font-semibold text-[#c59b5c]">Open Source Contributor</h3>
-                                <p>May 2024 - Present</p>
-                                <p>I received 980 points and made 23 PRs right from the start. I am proud to have obtained the Summit Seeker Badge🏅</p>
+                                <p>May 2024 - Aug 2024</p>
+                                <p>I received 955 points and made 22 PRs right from the start. I am proud to have obtained the Champion Badge🏅</p>
                             </div>
                         </div>
                     </div>
