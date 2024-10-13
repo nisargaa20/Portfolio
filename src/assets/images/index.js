@@ -36,6 +36,7 @@ import project2 from "./project2.png";
 import project3 from "./project3.png";
 import arrowR from './arrowR.png';
 import arrowL from './arrowL.png';
+import metro from "./metro.jpg";
 
 
 export {
@@ -55,6 +56,7 @@ export {
     express1,
     mongooDb1,
     project3,
+    metro,
     java1,
     AIandML,
     Api,

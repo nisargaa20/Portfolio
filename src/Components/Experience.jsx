@@ -23,8 +23,8 @@ const Experience = () => {
                                 <h2>BitsGate</h2>
                             </div>
                             <div className="desc flex flex-col gap-2">
-                                <h3 className="font-semibold text-[#c59b5c]">Software Development Engineer</h3>
-                                <p>May 2024 - Aug 2024</p>
+                                <h3 className="font-semibold text-[#c59b5c]">Software Development Engineer | Internship</h3>
+                                <p>May 2024 - July 2024</p>
                                 <p>Collaborated closely with the development team to architect and implement advanced real-time data visualization tools, 
                                 including interactive gauges and dynamic charts, ensuring optimal functionality and superior user experience.</p>
                               
