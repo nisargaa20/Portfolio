@@ -23,16 +23,15 @@ const Experience = () => {
                                 <h2>BitsGate</h2>
                             </div>
                             <div className="desc flex flex-col gap-2">
-                                <h3 className="font-semibold text-[#c59b5c]">Software Development Engineer | Internship</h3>
+                                <h3 className="font-semibold text-[#c59b5c]">Junior Project Associate (SDE)  | Internship</h3>
                                 <p>May 2024 - July 2024</p>
-                                <p>Collaborated closely with the development team to architect and implement advanced real-time data visualization tools, 
-                                including interactive gauges and dynamic charts, ensuring optimal functionality and superior user experience.</p>
+                                <p>I contributed to the development of a real-time dashboard, leveraging React.js to create interactive charts and dynamic gauges that track humidity, temperature, and flux. I also mentored fellow interns, providing technical guidance to help them grow their skills and complete tasks more efficiently.</p>
                               
                                 <h3 className="font-semibold text-[#c59b5c]">Full Stack Developer | Internship</h3>
                                 <p>Jan 2024 - Feb 2024</p>
-                                <p>Developed and implemented a full-stack blogging website utilizing web development technologies, ensuring seamless user 
-                                    experience and efficient content management. Also, worked on a React portfolio website and rigorously tested using APIs with 
-                                    Postman for seamless functionality.</p>
+                                <p>I developed a blogging platform using HTML, CSS, JavaScript, and Firebase. The website enabled users to create, publish, and manage blog posts with ease. Additionally, I enhanced my API development skills by testing and debugging APIs with Postman, focusing on GET, POST, and PUT methods to improve workflows and efficiency.
+
+</p>
                             </div>
                         </div>
                     </div>
