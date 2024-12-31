@@ -16,6 +16,23 @@ const Experience = () => {
                 <div className="timeline relative flex flex-col items-center gap-9 w-full">
                     <div className="line absolute w-0.5 h-full bg-[#6a522f] left-1/2 transform -translate-x-1/2 z-1"></div>
                     
+                    <div className="ex-container left w-5/6 md:w-[45%] border-2 border-[#6a522f] flex justify-between items-start rounded-3xl p-4 shadow-lg relative z-2 mr-auto">
+                        <div className="arrow absolute w-0 h-0 border-t-[10px] border-t-transparent border-l-[10px] border-l-[#6a522f] border-b-[10px] border-b-transparent right-[-10px] top-1/2 transform -translate-y-1/2"></div>
+                        <div className="content flex flex-col justify-start items-start">
+                            <div className="tag text-xl font-bold text-[#c59b5c]">
+                                <h2>Stealth Startup</h2>
+                            </div>
+                            <div className="desc flex flex-col gap-2">
+                                <h3 className="font-semibold text-[#c59b5c]">Software Development Intern </h3>
+                                <p>Dec 2024 - Present</p>
+                                <p>Working on creating message flows for WhatsApp Manager using JSON, collaborating with Gallabox and 
+Meta to enhance chatbot interactions.  Currently exploring and developing an automation system using tools like Make.com for a stealth startup to categorize social media posts, analyze engagement metrics, and identify patterns to optimize digital growth 
+strategies. </p>
+                            </div>
+                        </div>
+                    </div>
+
+
                     <div className="ex-container right w-5/6 md:w-[45%] border-2 border-[#6a522f] flex justify-between items-start rounded-3xl p-4 shadow-lg relative z-2 ml-auto">
                         <div className="arrow absolute w-0 h-0 border-t-[10px] border-t-transparent border-r-[10px] border-r-[#6a522f] border-b-[10px] border-b-transparent left-[-10px] top-1/2 transform -translate-y-1/2"></div>
                         <div className="content flex flex-col justify-start items-start">
@@ -50,20 +67,7 @@ const Experience = () => {
                         </div>
                     </div>
 
-                    <div className="ex-container right w-5/6 md:w-[45%] border-2 border-[#6a522f] flex justify-between items-start rounded-3xl p-4 shadow-lg relative z-2 ml-auto">
-                        <div className="arrow absolute w-0 h-0 border-t-[10px] border-t-transparent border-r-[10px] border-r-[#6a522f] border-b-[10px] border-b-transparent left-[-10px] top-1/2 transform -translate-y-1/2"></div>
-                        <div className="content flex flex-col justify-start items-start">
-                            <div className="tag text-xl font-bold text-[#c59b5c]">
-                                <h2>Suvidha Foundation</h2>
-                            </div>
-                            <div className="desc flex flex-col gap-2">
-                                <h3 className="font-semibold text-[#c59b5c]">Web Developer | Internship</h3>
-                                <p>Nov 2023 - Dec 2023</p>
-                                <p>Spearheaded the development of digital summarizer project aimed at enhancing information accessibility for the organization, 
-                                    leveraging advanced technologies to ensure optimal performance and user satisfaction.</p>
-                            </div>
-                        </div>
-                    </div>
+                  
                 </div>
             </div>
         </section>
