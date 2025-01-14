@@ -34,6 +34,7 @@ import AIandML from './Ai and ML.png';
 import skin from "./skin.png";
 import project2 from "./project2.png";
 import project3 from "./project3.png";
+import study from "./study.png";
 import arrowR from './arrowR.png';
 import arrowL from './arrowL.png';
 import metro from "./metro.jpg";
@@ -50,12 +51,14 @@ export {
     vsCode,
     linux,
     npm,
+    study,
     git,
     github,
     nodeJs,
     express1,
     mongooDb1,
     project3,
+  
     metro,
     java1,
     AIandML,

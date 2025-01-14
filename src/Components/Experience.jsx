@@ -24,7 +24,7 @@ const Experience = () => {
                             </div>
                             <div className="desc flex flex-col gap-2">
                                 <h3 className="font-semibold text-[#c59b5c]">Software Development Intern </h3>
-                                <p>Dec 2024 - Present</p>
+                                <p>Dec 2024 - Jan 2025</p>
                                 <p>Working on creating message flows for WhatsApp Manager using JSON, collaborating with Gallabox and 
 Meta to enhance chatbot interactions.  Currently exploring and developing an automation system using tools like Make.com for a stealth startup to categorize social media posts, analyze engagement metrics, and identify patterns to optimize digital growth 
 strategies. </p>

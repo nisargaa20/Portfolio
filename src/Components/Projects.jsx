@@ -1,6 +1,6 @@
 import React from 'react';
 import SkillBox from './SkillBox';
-import { skin, metro,html, css, react1, tailwind, project2, project3, nodeJs, mongooDb1, redux1 } from '../assets/images';
+import { skin, metro,html, css, react1, tailwind, project2, project3, nodeJs, study,mongooDb1, redux1 } from '../assets/images';
 import { Link } from 'react-router-dom';
 import Certificates from './Certificates';
 
@@ -95,6 +95,34 @@ Here, I have chosen Green and Purple lines of the Bengaluru Metro as input, repr
                             </div>
                         </div>
                     </div>
+
+
+                    <div className="w-[95%] h-auto border-2 border-[#6a522f] my-3 flex flex-col md:flex-row justify-between items-start rounded-3xl sm:w-[80%] lg:w-[70%] lg:py-6 shadow-lg">
+                        <div className="w-full h-fit p-3 sm:px-10 md:p-3 flex justify-center items-center">
+                            <img src={ study } alt='img' className="lg:h-[18rem] hover:cursor-pointer" />
+                        </div>
+                        <div className='w-full h-full px-3 lg:pr-10'>
+                            <div className="py-2 text-lg flex justify-start items-center">
+                                <h1 className='text-2xl font-bold lg:text-4xl lg:py-3 lg:font-bold'>Elearning-Platform</h1>
+                            </div>
+                            <div className='w-auto h-10 flex gap-3 justify-start items-center py-6'>
+                                <h1 className='font-bold lg:text-[14px] text-[#c59b5c]'>Tech Stack</h1>
+                                <p>HTML/CSS, JavaScript, React.js, MariaDB, WebRTC</p>
+                            </div>
+                            <div className='py-2'>
+                                <p className="max-w-md text-[0.9rem] sm:text-base md:text-base lg:text-[16px] font-light text-left tracking-wider">
+                                Built StudySphere, a platform offering features like interactive courses, live classes, embedded educational videos, and real-time chat and video conferencing for seamless learning engagement. Integrated a Reels section showcasing informative videos on technical topics , an assessment module
+managing quizzes and assignments, and personalized student and professor profiles to streamline course management and progress tracking.
+                                </p>
+                            </div>
+                            <div className="w-full h-auto py-3 flex flex-col gap-3">
+                                <div className="flex justify-center items-start w-full h-full border-2 border-[#6a522f] p-2 rounded-3xl font-bold tracking-wider transition duration-150 ease-in-out hover:-translate-y-1 cursor-pointer bg-[#c59b5c] hover:bg-transparent group">
+                                    <a href='https://nisargaa20.github.io/Elearning_Platform/' className="group-hover:text-white text-lg text-black" target="_blank" rel="noopener noreferrer">Preview</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
 
                     {/* Project 3 */}
                     <div className="w-[95%] h-auto border-2 border-[#6a522f] my-3 flex flex-col md:flex-row justify-between items-start rounded-3xl sm:w-[80%] lg:w-[70%] lg:py-6 shadow-lg">
